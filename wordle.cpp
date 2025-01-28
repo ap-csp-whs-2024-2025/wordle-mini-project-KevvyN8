@@ -13,6 +13,23 @@
 
 std::vector<int> createSecret() {
     // Write this procedure here
+    
+
+int main()
+{ 
+
+    int random_num1 = rand() % 10;    // random number between 0 and 9
+    
+     int random_num2 = rand() % 10;
+    
+     int random_num3 = rand() % 10;
+     
+     int random_num4 = rand() % 10;
+     
+
+    int secret_answer = list 
+}
+    
     return {};    // replace this with your code
 }
 
